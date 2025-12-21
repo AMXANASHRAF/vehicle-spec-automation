@@ -1,0 +1,25 @@
+# Core data handling
+pandas
+numpy
+
+# File output
+openpyxl
+
+# Environment variables
+python-dotenv
+
+# Web data (public sources only)
+requests
+beautifulsoup4
+
+# Hugging Face / LLM
+transformers
+torch
+sentencepiece
+accelerate
+
+# Optional UI (can be added later)
+streamlit
+
+# Testing (optional but professional)
+pytest
