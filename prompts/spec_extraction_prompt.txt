@@ -3,10 +3,17 @@ Return ONLY valid JSON.
 If data is missing, use null.
 
 Fields:
-horsepower
+base_horsepower
 torque
 engine_type
+no_of_cylinders
 transmission
+compression_ratio
 fuel_type
+fuel_injection_type
 drivetrain
+total_valves
+valves_per_cyl
+valve_timing_present
+camhead_configuration
 turbo_or_na

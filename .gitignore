@@ -1,0 +1,14 @@
+# virtual env
+venv/
+
+# env files (VERY IMPORTANT)
+.env
+src/.env
+
+# python junk
+__pycache__/
+*.pyc
+
+# outputs
+*.csv
+*.log
